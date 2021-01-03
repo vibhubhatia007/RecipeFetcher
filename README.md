@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[Deployment Link](https://5ff18f5939a300d104762c06--recipefetcher.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
